@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = ['5219996125657']
-global.mods = [] 
+global.owner = ['593982886470']
+global.mods = ['593987887693' ] 
 global.prems = [] 
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -21,8 +21,8 @@ global.APIKeys = {
   'https://pencarikode.xyz': 'pais'
 }
 
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'JimmyCum'
+global.author = 'Numero Prohibido'
 global.multiplier = 9999 
 
 let fs = require('fs')
