@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 global.packname = 'JimmyCum'
-global.author = 'Numero Prohibido'
+global.author = 'ThirTeen'
 global.multiplier = 9999 
 
 let fs = require('fs')
